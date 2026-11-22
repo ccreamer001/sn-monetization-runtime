@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-22T12:18:31.079Z; n=40
-books	sn:the_stacker_muse,sn:BooksAndArticles	6.24	no	RISING
-inkling	hn,sn:AI	5.6	yes	
-mini	hn,sn:AI	5.6	yes	
-lean	hn,sn:math	5.59	no	RISING
-riemann hypothesis	hn,sn:math	5.59	no	RISING
-rust	hn	3.99	no	RISING
-economics	sn:Politics_And_Law	3.61	no	RISING
-musings	sn:Politics_And_Law	3.61	no	RISING
-jobs	sn:Politics_And_Law	3.61	no	RISING
-maybe we need	sn:Politics_And_Law	3.61	no	RISING
-compute	sn:Politics_And_Law	3.61	no	RISING
-econ forces	sn:Politics_And_Law	3.61	no	RISING
-lodging	sn:bitcoin	3.4	yes	
-wayfaring men book club	sn:bitcoin	3.4	yes	
-chapter	sn:bitcoin	3.4	yes	
-book	sn:the_stacker_muse	3.4	no	RISING
-our dollar	sn:the_stacker_muse	3.4	no	RISING
-your problem	sn:the_stacker_muse	3.4	no	RISING
-kenneth rogoff	sn:the_stacker_muse	3.4	no	RISING
-hurried announcement	hn	3.39	no	RISING
-alessandro masullo	hn	3.39	no	RISING
-my podcast	sn:Education	3.28	no	RISING
-the answer	sn:Education	3.28	no	RISING
-transaction costs	sn:Education	3.28	no	RISING
-double rewards in my territories this week	sn:bitcoin_beginners	3.24	no	RISING
-launched	sn:gaming	3.19	yes	
-live	sn:DIY	3.18	no	RISING
-sourdough	sn:DIY	3.18	no	RISING
-necromancing	sn:tech	3.14	yes	
-part	sn:tech	3.14	yes	
-show	hn	3.13	no	RISING
-modest proposal	sn:lol	3.05	no	RISING
-benefit	sn:lol	3.05	no	RISING
-public welfare	sn:lol	3.05	no	RISING
-destroy mercury	sn:lol	3.05	no	RISING
-pill	hn	3.03	no	RISING
-open-weights	sn:AI	2.91	yes	
-articles weekly	sn:BooksAndArticles	2.84	no	RISING
-detonating	hn	2.8	no	RISING
-den beats	sn:chess	2.8	no	RISING
+# generated 2026-11-22T21:34:03.263Z; n=40
+show	hn,sn:nostr	6.44	yes	
+bitcoin	sn:bitcoin	5.93	yes	
+anthropic	hn,sn:Politics_And_Law	5.78	yes	
+vulnerable	sn:bitcoin	3.39	yes	
+launched	sn:gaming	3.21	yes	
+sunday	sn:Photography	3.16	no	RISING
+share	sn:Photography	3.16	no	RISING
+russian	sn:news	3.14	no	RISING
+libyan	sn:news	3.14	no	RISING
+pill	hn	3.12	no	RISING
+modest proposal	sn:lol	3.06	no	RISING
+benefit	sn:lol	3.06	no	RISING
+public welfare	sn:lol	3.06	no	RISING
+destroy mercury	sn:lol	3.06	no	RISING
+toyota	hn	3.05	no	RISING
+nissan	hn	3.05	no	RISING
+honda	hn	3.05	no	RISING
+cassis	sn:bitcoin	3.01	yes	
+mr harford rediscovers	sn:the_stacker_muse	3.01	no	RISING
+virtue	sn:the_stacker_muse	3.01	no	RISING
+shower thoughts	sn:the_stacker_muse	3.01	no	RISING
+tim harford	sn:the_stacker_muse	3.01	no	RISING
+the dollar	sn:BooksAndArticles	3.01	no	RISING
+to be	sn:BooksAndArticles	3.01	no	RISING
+wall street journal	sn:BooksAndArticles	3.01	no	RISING
+fern	sn:BooksAndArticles	3.01	no	RISING
+villaverde	sn:BooksAndArticles	3.01	no	RISING
+deep dive	sn:bitcoin	3.01	yes	
+mining sharechains	sn:bitcoin	3.01	yes	
+love	sn:bitcoin	3.01	yes	
+profit	sn:bitcoin	3.01	yes	
+payment	sn:nostr	3	yes	
+society	sn:AI	3	yes	
+scientists	sn:AI	3	yes	
+year-old	sn:bitcoin	2.91	yes	
+employees	sn:Politics_And_Law	2.89	no	RISING
+trust us	sn:Politics_And_Law	2.89	no	RISING
+good guys	sn:Politics_And_Law	2.89	no	RISING
+jasmine sun	sn:Politics_And_Law	2.89	no	RISING
+my agent said	sn:the_stacker_muse	2.79	no	RISING
